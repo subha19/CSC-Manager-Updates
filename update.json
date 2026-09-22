@@ -1,9 +1,10 @@
 {
-  "version": "5.2.3",
-  "url": "https://github.com/subha19/CSC-Manager-Updates/releases/download/v5.2.3/CSC_Manager_Setup_5.2.3.exe",
-  "sha256": "403994dd71a7e1cd7b8cbbd7d0b1467c5e8ea8f51f699b8b6044c737841ec6df",
+  "version": "5.2.4",
+  "url": "https://github.com/subha19/CSC-Manager-Updates/releases/download/v5.2.4/CSC.Manager.5.2.4.exe",
+  "sha256": "77740e9af35f455084052eb73eaff1268d0c2e18994f89f760ec167fed9fc040",
   "notes": [
-    "Live automatic update enabled",
+    "Fixed automatic update system",
+    "Version display corrected",
     "Supabase cloud improvements"
   ]
 }
