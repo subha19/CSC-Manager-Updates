@@ -1,10 +1,10 @@
 {
-  "version": "5.2.4",
-  "url": "https://github.com/subha19/CSC-Manager-Updates/releases/download/v5.2.4/CSC.Manager.5.2.4.exe",
-  "sha256": "77740e9af35f455084052eb73eaff1268d0c2e18994f89f760ec167fed9fc040",
+  "version": "5.2.5",
+  "url": "https://github.com/subha19/CSC-Manager-Updates/releases/download/v5.2.5/CSC.Manager.Setup.5.2.5.exe",
+  "sha256": "63ff95483e82abc11c534bea062a8380fa1253e0b07c046f5cafeba3e50e457b",
   "notes": [
-    "Fixed automatic update system",
-    "Version display corrected",
-    "Supabase cloud improvements"
+    "Calendar daily income and expense report",
+    "Daily net income and due customers",
+    "Dashboard project notes now wrap correctly"
   ]
 }
